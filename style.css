@@ -1,0 +1,12 @@
+#menu {
+	hover: scroll;
+	width: 250px;
+	height: 100hv;
+	background: #ffbf00;
+	position: fixed;
+	left: -230px;
+	top: 100;
+}
+.spisok {
+	 color:red;
+}
