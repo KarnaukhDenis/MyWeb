@@ -1,12 +1,16 @@
-#menu {
-	hover: scroll;
-	width: 250px;
-	height: 100hv;
-	background: #ffbf00;
-	position: fixed;
-	left: -230px;
-	top: 100;
+header{
+	background: #966843;
 }
-.spisok {
-	 color:red;
+
+body{
+	font-family: Arial, sans-serif;
+	background: #587c98;
+}
+.container{
+	width: 500px;
+	height: 100px;
+	margin: 0 auto;
+}
+footer{
+background: #5bafa1;
 }
